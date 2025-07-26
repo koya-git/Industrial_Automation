@@ -1,0 +1,1 @@
+#soon update Fanuc Robot Control Over Network usign C++
